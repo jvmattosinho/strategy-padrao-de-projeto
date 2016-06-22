@@ -1,0 +1,4 @@
+C:\Projetos\Estudos\PadraoStrategy\PadraoStrategy.Modelo\bin\Debug\PadraoStrategy.Modelo.dll
+C:\Projetos\Estudos\PadraoStrategy\PadraoStrategy.Modelo\bin\Debug\PadraoStrategy.Modelo.pdb
+C:\Projetos\Estudos\PadraoStrategy\PadraoStrategy.Modelo\obj\Debug\PadraoStrategy.Modelo.dll
+C:\Projetos\Estudos\PadraoStrategy\PadraoStrategy.Modelo\obj\Debug\PadraoStrategy.Modelo.pdb

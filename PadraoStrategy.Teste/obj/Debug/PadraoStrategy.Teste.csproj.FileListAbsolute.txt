@@ -1,0 +1,10 @@
+C:\Projetos\Estudos\PadraoStrategy\PadraoStrategy.Teste\bin\Debug\PadraoStrategy.Teste.exe.config
+C:\Projetos\Estudos\PadraoStrategy\PadraoStrategy.Teste\bin\Debug\PadraoStrategy.Teste.exe
+C:\Projetos\Estudos\PadraoStrategy\PadraoStrategy.Teste\bin\Debug\PadraoStrategy.Teste.pdb
+C:\Projetos\Estudos\PadraoStrategy\PadraoStrategy.Teste\bin\Debug\PadraoStrategy.Modelo.dll
+C:\Projetos\Estudos\PadraoStrategy\PadraoStrategy.Teste\bin\Debug\PadraoStrategy.Negocio.dll
+C:\Projetos\Estudos\PadraoStrategy\PadraoStrategy.Teste\bin\Debug\PadraoStrategy.Modelo.pdb
+C:\Projetos\Estudos\PadraoStrategy\PadraoStrategy.Teste\bin\Debug\PadraoStrategy.Negocio.pdb
+C:\Projetos\Estudos\PadraoStrategy\PadraoStrategy.Teste\obj\Debug\PadraoStrategy.Teste.csprojResolveAssemblyReference.cache
+C:\Projetos\Estudos\PadraoStrategy\PadraoStrategy.Teste\obj\Debug\PadraoStrategy.Teste.exe
+C:\Projetos\Estudos\PadraoStrategy\PadraoStrategy.Teste\obj\Debug\PadraoStrategy.Teste.pdb

@@ -1,0 +1,7 @@
+C:\Projetos\Estudos\PadraoStrategy\PadraoStrategy.Negocio\bin\Debug\PadraoStrategy.Negocio.dll
+C:\Projetos\Estudos\PadraoStrategy\PadraoStrategy.Negocio\bin\Debug\PadraoStrategy.Negocio.pdb
+C:\Projetos\Estudos\PadraoStrategy\PadraoStrategy.Negocio\bin\Debug\PadraoStrategy.Modelo.dll
+C:\Projetos\Estudos\PadraoStrategy\PadraoStrategy.Negocio\bin\Debug\PadraoStrategy.Modelo.pdb
+C:\Projetos\Estudos\PadraoStrategy\PadraoStrategy.Negocio\obj\Debug\PadraoStrategy.Negocio.csprojResolveAssemblyReference.cache
+C:\Projetos\Estudos\PadraoStrategy\PadraoStrategy.Negocio\obj\Debug\PadraoStrategy.Negocio.dll
+C:\Projetos\Estudos\PadraoStrategy\PadraoStrategy.Negocio\obj\Debug\PadraoStrategy.Negocio.pdb
